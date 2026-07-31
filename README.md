@@ -1052,7 +1052,7 @@ The objective is not merely to classify a session as high or low quality. The sy
 
 The transcript-based NLP and session-level modelling components have been implemented.
 
-The repository is currently being extended and consolidated with an end-to-end Speech AI front end covering:
+This repository is the consolidated public release of approximately two years of research and engineering work. The repository is currently being extended and consolidated with an end-to-end Speech AI front end covering:
 
 - YouTube audio acquisition
 - Audio validation and standardisation
@@ -1064,7 +1064,7 @@ The repository is currently being extended and consolidated with an end-to-end S
 - Speech-derived session features
 - End-to-end error-propagation analysis
 
-Source code, model configurations, evaluation outputs, figures, and reproducibility documentation are being organised for public presentation.
+The transcript-based NLP experiments, hierarchical modelling design, session-level feature engineering, model evaluation, and interpretability analysis were developed before the repository was prepared for public release.
 
 ---
 
